@@ -1,0 +1,106 @@
+{
+  "materias": [
+    {
+      "id": "1",
+      "seccion": "001_D",
+      "namemateria": "Matematica Aplicada",
+      "horario": "11:40 - 1:00",
+      "sala": "224",
+      "descripcionMateria": "Matematicas que estan enfocadas a tu carrera y que en algun momento las tendras que usar.",
+      "fecha": "lunes",
+      "imagen": "https://img.freepik.com/premium-photo/geeky-businessman-gesturing-camera-against-orange-vignette_1134-73100.jpg",
+      "profesor": "Julio Numeros"
+    },
+    {
+      "id": "2",
+      "seccion": "001_D",
+      "namemateria": "Gestion de proyectos informaticos",
+      "horario": "2:00 - 3:20",
+      "sala": "207",
+      "descripcionMateria": "En este curso crearemos un gestionaremos un proyecto informatico desde inicio a fin con todo las actividades que eso conlleva",
+      "fecha": "lunes",
+      "imagen": "https://img.freepik.com/free-photo/close-up-businessman-with-digital-tablet_1098-549.jpg",
+      "profesor": "Cerebro de Planilla"
+    },
+    {
+      "id": "3",
+      "seccion": "001_D",
+      "namemateria": "Doctrina Social de la Inglesia",
+      "horario": "4:40 - 6:50",
+      "sala": "209",
+      "descripcionMateria": "Entenderas los valores de la iglesia y la familia y como esto nos forma desde el momento en que nacemos.",
+      "fecha": "lunes",
+      "imagen": "https://img.freepik.com/free-photo/close-up-man-reading-bible-with-cross-hanging-religion-belief-concept_53876-33668.jpg",
+      "profesor": "Padre Carlos"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "photo": "",
+      "firstname": "Juan Estudiante",
+      "secondname": "Del Duoc",
+      "email": "jaunitoes@duocuc.cl",
+      "password": "123456",
+      "isactive": true
+    },
+    {
+      "id": "2",
+      "photo": "",
+      "firstname": "benjamin",
+      "secondname": "rodriguez",
+      "email": "ben.rodriguez@duocuc.cl",
+      "password": "rodriguez2024",
+      "isactive": true
+    },
+    {
+      "id": "41be",
+      "photo": "assets/yo.jpg",
+      "firstname": "Jorge Andres",
+      "secondname": "Piña Angel",
+      "email": "jorg.pina@duocuc.cl",
+      "password": "Rquiem2One",
+      "isactive": true
+    }
+  ],
+  "listaAsistencia": [
+    {
+      "estudiante": "Jorge Piña",
+      "presente": true,
+      "id": "911e"
+    },
+    {
+      "estudiante": "Bruce Angel",
+      "presente": false,
+      "id": "912e"
+    },
+    {
+      "estudiante": "Dante Inostroza",
+      "presente": true,
+      "id": "913e"
+    }
+  ],
+  "justificados": [
+    {
+      "id": "9d4a",
+      "asignatura": "Matematica Aplicada",
+      "fecha": "26/11/2024",
+      "descripcion": "Caligula",
+      "profesor": "Camilo"
+    },
+    {
+      "id": "9307",
+      "asignatura": "Gestio de Proyectos Informaticos",
+      "fecha": "26/11/2024",
+      "descripcion": "Tengo Problemas con la asistencia ",
+      "profesor": "Claudio"
+    }
+  ],
+  "comentarios": [
+    {
+      "id": "eac7",
+      "materia": "",
+      "mensaje": "asdqmcnqklwcnoiwncoxk"
+    }
+  ]
+}
