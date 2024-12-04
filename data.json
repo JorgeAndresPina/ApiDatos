@@ -34,10 +34,15 @@
       "profesor": "Padre Carlos"
     }
   ],
+  "usersestudiante"[
+    {
+      
+    }
+  ],
   "users": [
     {
       "id": "1",
-      "photo": "",
+      "photo": "/assets/caras/carafalsa2.jpeg",
       "firstname": "Juan Estudiante",
       "secondname": "Del Duoc",
       "email": "jaunitoes@duocuc.cl",
@@ -46,7 +51,7 @@
     },
     {
       "id": "2",
-      "photo": "",
+      "photo": "/assets/caras/carafalsa1.jpeg",
       "firstname": "benjamin",
       "secondname": "rodriguez",
       "email": "ben.rodriguez@duocuc.cl",
