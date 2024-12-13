@@ -12,6 +12,7 @@
       "profesor": "Julio Numeros",
       "asistencia" : [
         {
+          "fecha" : "26/11/2024",
           "nombreestudiante" : "Juan Carlos Bodoque",
           "presente": true
         }
@@ -29,6 +30,7 @@
       "profesor": "Cerebro de Planilla",
       "asistencia" : [
         {
+          "fecha" : "26/11/2024",
           "nombreestudiante" : "Juan Carlos Bodoque",
           "presente": false
         }
@@ -46,6 +48,7 @@
       "profesor": "Padre Carlos",
       "asistencia" : [
         {
+          "fecha" : "26/11/2024",
           "nombreestudiante" : "Juan Carlos Bodoque",
           "presente": true
         }
