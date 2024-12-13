@@ -9,7 +9,7 @@
       "descripcionMateria": "Matematicas que estan enfocadas a tu carrera y que en algun momento las tendras que usar.",
       "fecha": "lunes",
       "imagen": "https://img.freepik.com/premium-photo/geeky-businessman-gesturing-camera-against-orange-vignette_1134-73100.jpg",
-      "profesor": "Julio Numeros"
+      "profesor": "Julio Numeros",
     },
     {
       "id": "2",
@@ -20,7 +20,7 @@
       "descripcionMateria": "En este curso crearemos un gestionaremos un proyecto informatico desde inicio a fin con todo las actividades que eso conlleva",
       "fecha": "lunes",
       "imagen": "https://img.freepik.com/free-photo/close-up-businessman-with-digital-tablet_1098-549.jpg",
-      "profesor": "Cerebro de Planilla"
+      "profesor": "Cerebro de Planilla",
     },
     {
       "id": "3",
@@ -31,7 +31,7 @@
       "descripcionMateria": "Entenderas los valores de la iglesia y la familia y como esto nos forma desde el momento en que nacemos.",
       "fecha": "lunes",
       "imagen": "https://img.freepik.com/free-photo/close-up-man-reading-bible-with-cross-hanging-religion-belief-concept_53876-33668.jpg",
-      "profesor": "Padre Carlos"
+      "profesor": "Padre Carlos",
     }
   ],
   "usersestudiante": [
