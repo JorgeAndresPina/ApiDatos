@@ -120,11 +120,7 @@
       "profesor": "Claudio"
     }
   ],
-  "comentarios": [
-    {
-      "id": "eac7",
-      "materia": "",
-      "mensaje": "asdqmcnqklwcnoiwncoxk"
-    }
+  "qrData" : [
+    
   ]
 }
