@@ -56,7 +56,20 @@
     }
   ],
   "usersestudiante": [
-    
+    {
+      "username": "Jorge Piña",
+      "email": "jorgeandrespinaa@gmail.com",
+      "password": "Qwerty12345",
+      "isactive": true,
+      "id": 1
+    },
+    {
+      "username": "Carlos Junior",
+      "email": "carlitos@gmail.com",
+      "password": "Qwerty123",
+      "isactive": true,
+      "id": 2
+    }
   ],
   "users": [
     {
@@ -121,6 +134,56 @@
     }
   ],
   "qrData" : [
+    {
+      "username": "Jorge Piña",
+      "namemateria": "Matematica Aplicada",
+      "fecha": "lunes",
+      "sala": "224",
+      "qrCode": "Jorge Piña Matematica Aplicadalunes224",
+      "id": 1
+    },
+    {
+      "username": "Jorge Piña",
+      "namemateria": "Gestion de proyectos informaticos",
+      "fecha": "lunes",
+      "sala": "207",
+      "qrCode": "Jorge Piña Gestion de proyectos informaticoslunes207",
+      "id": 2
+    },
+    {
+      "username": "Jorge Piña",
+      "namemateria": "Doctrina Social de la Inglesia",
+      "fecha": "lunes",
+      "sala": "209",
+      "qrCode": "Jorge Piña Doctrina Social de la Inglesialunes209",
+      "id": 3
+    },
+    {
+      "username": "Carlos Junior",
+      "namemateria": "Matematica Aplicada",
+      "fecha": "lunes",
+      "sala": "224",
+      "qrCode": "Carlos Junior Matematica Aplicadalunes224",
+      "id": 4
+    },
+    {
+      "username": "Carlos Junior",
+      "namemateria": "Gestion de proyectos informaticos",
+      "fecha": "lunes",
+      "sala": "207",
+      "qrCode": "Carlos Junior Gestion de proyectos informaticoslunes207",
+      "id": 5
+    },
+    {
+      "username": "Carlos Junior",
+      "namemateria": "Doctrina Social de la Inglesia",
+      "fecha": "lunes",
+      "sala": "209",
+      "qrCode": "Carlos Junior Doctrina Social de la Inglesialunes209",
+      "id": 6
+    }
+  ],
+  "recucontraseña" : [
     
   ]
 }
